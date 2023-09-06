@@ -3,7 +3,7 @@
 
 <div text-align: center;>
 
-![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soyeon&count_private=true&custom_title=Soyeon's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)
+<!--![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soyeon&count_private=true&custom_title=Soyeon's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)-->
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 </div>
